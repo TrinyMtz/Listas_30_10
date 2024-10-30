@@ -62,5 +62,6 @@ compleja_lista <- list(
   data_frame = data.frame(medio = c("LAS", "DSY", "LSD", "WER", "YPD"))
 )
 
-
 compleja_lista
+
+                                ## No esta terminado#
